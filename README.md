@@ -1,6 +1,6 @@
 ### Hi, I'm Eshan
 
-CS student at **USF** (expected Dec 2027), looking for a **Summer 2027 software engineering internship**.
+CS student at **USF** (expected Dec 2027).
 
 I build Python and C++ systems — language-learning tooling, education ops software, game engines, and small AI sims.
 
