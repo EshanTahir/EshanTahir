@@ -10,7 +10,7 @@ I build Python and C++ systems — language-learning tooling, education ops soft
 - **[Crumbl-2D](https://github.com/Crumbl-Studios/Crumbl-2D)** — reusable C++ game framework (SDL3, Box2D, OpenGL, Luau scripting)
 - **[Visualized](https://github.com/Crumbl-Studios/Visualized)** — complete 2D runner in Python/Pygame
 - **LANG** — sentence-first language learning (frequency paths, bitext alignment, FSRS)
-- **Uni Bot** — Discord education system + 25-table SQL schema for ~250 students / 15 instructors
+- **Uni Bot** — Discord education system + 25-table SQL schema
 
 ### Stack
 
