@@ -1,20 +1,23 @@
 ### Hi, I'm Eshan
 
-CS student at **USF** (expected Dec 2027).
+CS student at **USF** (B.S. Computer Science, expected Dec 2027). Looking for a **Summer 2027 software engineering internship**.
 
-I build Python and C++ systems — language-learning tooling, education ops software, game engines, and small AI sims.
+I build in **Python** and **C++** - simulations, game systems, and data pipelines.
 
-### Projects
+### Public projects
 
-- **[Self-Driving-AI](https://github.com/EshanTahir/Self-Driving-AI)** — 2D car sim with NEAT-evolved agents under changing fitness conditions
-- **[Crumbl-2D](https://github.com/Crumbl-Studios/Crumbl-2D)** — reusable C++ game framework (SDL3, Box2D, OpenGL, Luau scripting)
-- **[Visualized](https://github.com/Crumbl-Studios/Visualized)** — complete 2D runner in Python/Pygame
-- **LANG** — sentence-first language learning (frequency paths, bitext alignment, FSRS)
-- **Uni Bot** — Discord education system + 25-table SQL schema
+- **[Self-Driving-AI](https://github.com/EshanTahir/Self-Driving-AI)** - 2D vehicle sim + NEAT training loop (physics-heavy environment, evolved drivers)
+- **[Framework](https://github.com/EshanTahir/Framework)** - reusable C++ game framework (SDL2, Box2D, OpenGL, Luau)
+- **[Visualized](https://github.com/Crumbl-Studios/Visualized)** - complete 2D runner in Python / Pygame
+
+### In progress (not public repos)
+
+- **LANG** - language-learning product (large-scale corpus cleaning + study paths) - private / product track
+- **Uni Bot** - Discord education system design (relational schema + workflows)
 
 ### Stack
 
-`Python` · `C++` · `SQL` · `Git` · `Linux` · `data pipelines` · `relational schema design` ·  `SDL3` 
+`Python` · `C++` · `SQL` · `Git` · `Linux` · `NEAT` · `SDL2` · `Box2D` · `OpenGL` · `Pygame`
 
 ### Links
 
