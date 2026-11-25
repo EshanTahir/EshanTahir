@@ -1,6 +1,6 @@
 ### Hi, I'm Eshan
 
-CS student at **USF** (B.S. Computer Science, expected Dec 2027).
+CS student at **USF** (B.S. Computer Science, expected Dec 2027). Looking for a **Summer 2027 software engineering internship**.
 
 I build in **Python** and **C++** - simulations, game systems, and data pipelines.
 
@@ -10,9 +10,9 @@ I build in **Python** and **C++** - simulations, game systems, and data pipeline
 - **[Framework](https://github.com/EshanTahir/Framework)** - reusable C++ game framework (SDL2, Box2D, OpenGL, Luau)
 - **[Visualized](https://github.com/Crumbl-Studios/Visualized)** - complete 2D runner in Python / Pygame
 
-### In progress (not public repos)
+### In progress
 
-- **LANG** - language-learning product (large-scale corpus cleaning + study paths) - private / product track
+- **[Sequa](https://sequa.net)** - language-learning product (large-scale corpus cleaning + study paths)
 - **Uni Bot** - Discord education system design (relational schema + workflows)
 
 ### Stack
